@@ -1,0 +1,12 @@
+<tree>
+    <name>Median</name>
+    <parameters>
+		<Value>
+            <QSlider>B;0;255</QSlider>
+        </Value>	
+				
+        <Apply>
+            <QPushButton>B;0;1</QPushButton>
+        </Apply>
+	</parameters>
+</tree>
